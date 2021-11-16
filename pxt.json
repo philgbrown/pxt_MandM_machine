@@ -1,5 +1,6 @@
 {
     "name": "Colour_Sensor_TSC34725",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
