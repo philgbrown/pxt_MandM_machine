@@ -1,6 +1,8 @@
     /*
     * PXT_M_and_M extention
     *
+    * Version 2.01 18/11/2021
+    *
     * This is a MakeCode (pxt) extension for the M&M colour sorting machine or Project Recycle.
     * The extension includes blocks for the colour sensor type TCS34725 and the servo driver type PCA9685 connected to a micro:bit via the i2c bus. 
     * The TCS34725 sensor is assumed to be an Adafruit TCS34725 colour sensor board with inbuilt illumination LED. I2C bus address = 0x29.
